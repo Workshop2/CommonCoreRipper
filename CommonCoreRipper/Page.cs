@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using CsQuery;
 
-namespace MathDrillsRipper
+namespace CommonCoreRipper
 {
     public class Page
     {

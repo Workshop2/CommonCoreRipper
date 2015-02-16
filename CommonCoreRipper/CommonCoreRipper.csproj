@@ -7,8 +7,8 @@
     <ProjectGuid>{6D3906EB-1AD5-4047-A74A-DE09C0B04634}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MathDrillsRipper</RootNamespace>
-    <AssemblyName>MathDrillsRipper</AssemblyName>
+    <RootNamespace>CommonCoreRipper</RootNamespace>
+    <AssemblyName>CommonCoreRipper</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

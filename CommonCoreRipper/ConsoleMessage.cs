@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MathDrillsRipper
+namespace CommonCoreRipper
 {
     public class ConsoleMessage
     {

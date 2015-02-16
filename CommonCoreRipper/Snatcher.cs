@@ -2,7 +2,7 @@
 using CsQuery;
 using RestSharp;
 
-namespace MathDrillsRipper
+namespace CommonCoreRipper
 {
     public class Snatcher
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace MathDrillsRipper
+namespace CommonCoreRipper
 {
     [DebuggerDisplay("OriginalUrl = {OriginalUrl}")]
     public class Url

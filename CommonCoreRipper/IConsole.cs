@@ -1,4 +1,4 @@
-﻿namespace MathDrillsRipper
+﻿namespace CommonCoreRipper
 {
     public interface IConsole
     {

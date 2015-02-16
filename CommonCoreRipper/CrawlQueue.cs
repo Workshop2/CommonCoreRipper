@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace MathDrillsRipper
+namespace CommonCoreRipper
 {
     public class CrawlQueue
     {

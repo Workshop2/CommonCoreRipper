@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace MathDrillsRipper
+namespace CommonCoreRipper
 {
     public class Console : IConsole
     {
